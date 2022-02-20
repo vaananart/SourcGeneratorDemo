@@ -1,1 +1,2 @@
 # SourcGeneratorDemo
+This repository is a reference to the medium article published. You can read the published article in the following link. https://medium.com/@saravananganesan/exploring-c-source-generators-part-1-understanding-registerpostinitializationoutput-49dfd08ca052
